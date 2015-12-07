@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Photo Light Meter</string>
+    <string name="action_settings">Settings</string>
+    <string name="maxLuxString">Max Reading(Lux): </string>
+    <string name="currentLuxString">Current (Lux):  </string>
+    <string name="readingLuxString">Current Reading Lux: </string>
+    <string name="evString">EV: </string>
+    <string name="kString">K: </string>
+    <string name="cameraSettings">Camera Settings: </string>
+    <string name="isoString">ISO Value: </string>
+    <string name="iso_prompt">ISO</string>
+    <string name="aperture_prompt">Blende f</string>
+    <string name="shutterSpeed_prompt">Belichtungszeit t</string>
+
+   <!-- <string-array name="aperture_arrays">
+        <item>1/32</item>
+        <item>1/22</item>
+        <item>1/16</item>
+    </string-array>-->
+</resources>
